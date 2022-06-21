@@ -14,6 +14,7 @@ body {
 }
 
 .nav {
+/*format the links to evenly spread out.*/    
     justify-content: left;
     align-items: center;
 }
@@ -25,8 +26,16 @@ body {
     padding: 1rem;
    /*created one black bar across*/
     float: left;
+    
 }
+
+/*linked .col section and formatted */
 .nav a:hover {
     background-color: black;
     color: white;
+}
+
+img{
+    width: 1128px;
+    height: 400px;
 }
