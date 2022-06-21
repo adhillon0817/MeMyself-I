@@ -4,23 +4,22 @@
 body {
     background-color:rgba(128, 128, 128, 0.241);
     font-family: sans;
-    font-size: large;
+    font-size: small;
     margin: 0;
 
 }
 
-header {
+h1 {
     padding: 3px;
     text-align: right;
     background-color: rgba(80, 234, 209, 0.747);
-    margin-right: 70%;
-    
+    height: 40px;
 }
 
 .row{
     display: flex;
     width: 600px;
-    height: 80px;
+    height: 100px;
     border: 15px solid black;
 }
 
