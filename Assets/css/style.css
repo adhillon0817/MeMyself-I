@@ -1,4 +1,22 @@
+*{
+    box-sizing: border-box;
+}
 body {
     background-color:rgba(128, 128, 128, 0.241);
+    font-family: sans;
+    font-size: large;
+    margin: 0;
+
 }
 
+header {
+    padding: 3px;
+    text-align: right;
+    background-color: rgba(80, 234, 209, 0.747);
+    margin-right: 80%;
+    
+}
+
+nav {
+    display: flex;
+}
