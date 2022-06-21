@@ -13,10 +13,17 @@ header {
     padding: 3px;
     text-align: right;
     background-color: rgba(80, 234, 209, 0.747);
-    margin-right: 80%;
+    margin-right: 70%;
     
 }
 
-nav {
+.row{
     display: flex;
+    width: 600px;
+    height: 80px;
+    border: 15px solid black;
+}
+
+.col {
+    flex: 1 0 0%;
 }
