@@ -2,15 +2,13 @@ body {
     background-color:rgba(128, 128, 128, 0.241);
 }
 
-.row{
-    display: flex-center;
-}
 
-.col {
+.main-header {
     width: 250px;
     height: inherit;
     background-color:lightblue;
     flex: 1 0 0%;
+    display: flex-center;
 }
 
 .nav {
