@@ -1,4 +1,4 @@
-body {
+*{
     background-color:rgba(128, 128, 128, 0.241);
 }
 
@@ -11,7 +11,7 @@ body {
     display: flex-center;
 }
 
-.nav {
+.card {
 /*format the links to evenly spread out.*/    
     justify-content: left;
     align-items: center;
