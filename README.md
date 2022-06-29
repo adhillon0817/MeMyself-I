@@ -1,5 +1,5 @@
  <!---set class and combined row and col together to evenly have links and text.-->   
-        <h1 class="col">Avleen Dhillon</h1>
+       <!--- <h1 class="col">Avleen Dhillon</h1> ---> 
 <!---using 'nav' in order to edit css file across all links under this section.       
         <nav class="col, row nav"> 
             <a href="#" class="col">About Me</a>
