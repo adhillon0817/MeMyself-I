@@ -2,14 +2,25 @@
     background-color:rgba(128, 128, 128, 0.241);
 }
 
+body {
+    font-family: Calibri;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 
 .main-header {
-    width: 250px;
-    height: inherit;
-    background-color:lightblue;
-    flex: 1 0 0%;
-    display: flex-center;
-}
+    display: flex;
+    /* Forces elements to the next line if they don't fit */
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 60px;
+    background: lightblue;
+    color: black;
+  }
 
 .card {
 /*format the links to evenly spread out.*/    
