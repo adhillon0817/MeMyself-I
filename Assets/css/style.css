@@ -24,15 +24,16 @@ main {
 
 .card {
 /*format the links to evenly spread out.*/    
-    justify-content: left;
-    align-items: center;
+    flex: 1 1 1;
+    padding: 0 px;
+
 }
 
-.nav .col {
+.card header {
     background-color: black;
     color:lightblue;
     flex-grow: 0;
-    padding: 1rem;
+    padding: 8px;
    /*created one black bar across*/
     float: left;
     
