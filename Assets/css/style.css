@@ -6,13 +6,12 @@ body {
     font-family: Calibri;
 }
 
-main {
-    display: flex;
-    flex-wrap: wrap;
-}
+.main {
+    font-family: Calibri;
 
 
 .main-header {
+    background-color: ;
     display: flex;
     /* Forces elements to the next line if they don't fit */
     flex-wrap: wrap;
