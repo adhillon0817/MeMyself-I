@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Trebuchet MS;
+    margin: 0;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: left;
+    padding: 40px;
+}
+
+
+nav {
+    display: flex;
+}
+
+nav a{
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: right;
+}
