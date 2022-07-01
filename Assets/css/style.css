@@ -18,6 +18,8 @@ header {
 }
 
 
+
+
 nav {
     display: flex;
 }
@@ -43,13 +45,18 @@ side {
 }
 
 .products {
-    flex: 4;
+    align-items: flex-start;
+    width: 80%;
+    margin: 1% auto;
+
+  /*  flex: 4;
     padding: 10px;
     display: flex;
     flex-direction: row;
     margin-left: 3%;
-    flex: 0 0 60%;
+    flex: 0 0 60%; */
 }
+
 
 .card {
     border-style: none;
