@@ -6,6 +6,8 @@
 body {
     font-family: Trebuchet MS;
     margin: 0;
+    background-color: lightgrey;
+    flex-direction: column;
 }
 
 header {
@@ -24,4 +26,18 @@ nav a{
     padding: 14px 20px;
     text-decoration: none;
     text-align: right;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+side {
+    flex: 1;
+    font-size: xx-large; 
+    padding: 50px;
+    text-align: left; 
 }
