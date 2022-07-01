@@ -41,3 +41,23 @@ side {
     padding: 50px;
     text-align: left; 
 }
+
+.products {
+    flex: 4;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+    flex: 0 0 400px;
+    }
+
+.card img{
+    width: 100%
+
+}
