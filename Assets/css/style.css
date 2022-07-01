@@ -46,8 +46,9 @@ side {
     flex: 4;
     padding: 10px;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
+    margin-left: 3%;
+    flex: 0 0 60%;
 }
 
 .card {
@@ -57,7 +58,18 @@ side {
     flex: 0 0 400px;
     }
 
+.card header {
+   padding: 20px;
+   background-size: auto;
+   text-align: right;
+}
 .card img{
-    width: 100%
+    width: 100%;
+}
 
+.card p1{
+    text-align: right;
+}
+.card p{
+    text-align: right;
 }
