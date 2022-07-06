@@ -17,9 +17,6 @@ header {
     padding: 40px;
 }
 
-
-
-
 nav {
     display: flex;
 }
@@ -48,6 +45,7 @@ side {
     align-items: flex-start;
     width: 80%;
     margin: 1% auto;
+    
 
   /*  flex: 4;
     padding: 10px;
@@ -72,11 +70,21 @@ side {
 }
 .card img{
     width: 100%;
+    padding: 20px;
 }
 
 .card p1{
     text-align: right;
+    
 }
 .card p{
     text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+    nav,
+    main,
+    .product{
+        flex-direction: row;
+    }
 }
