@@ -78,11 +78,20 @@ side {
 }
 .card p1{
     text-align: right;
+    font-size: larger;
     
 }
 .card p{
     text-align: right;
 }
+
+.footer p{
+    padding: 20px;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+
 
 @media screen and (max-width: 768px) {
     nav,
