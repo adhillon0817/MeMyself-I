@@ -21,6 +21,7 @@ Once you are on the site, you can visit each section by clicking and navigating 
 
 GIF of deployed site usage
 
+
 License
 MIT License
 
@@ -32,12 +33,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Tests
-ENTER TEST INFORMATION HERE
 
 Technology
-TECHNOLOGY NAME
-Questions
-To contact me, use one of the links below
-Github profile
-Email Me
+CSS and HTML 
+
+Questions:
+Avleen Dhillon - GitHub: https://github.com/adhillon0817    LinkedIn www.linkedin.com/in/avleen-dhillon-2116371b4  
