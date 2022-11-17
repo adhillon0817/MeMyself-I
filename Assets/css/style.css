@@ -17,6 +17,18 @@ header {
     padding: 40px;
 }
 
+header nav{
+    margin: 7px 0;
+}
+
+header nav ul{
+    display: flex-wrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
 
 nav {
     display: flex;
@@ -34,6 +46,7 @@ main {
     justify-content: space-between;
     margin-top: 2%;
 }
+
 
 side {
     flex: 1;

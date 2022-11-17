@@ -22,7 +22,7 @@ Once you are on the site, you can visit each section by clicking and navigating 
 GIF of deployed site usage:
 
 
-https://adhillon0817.github.io/MeMyself-I/
+
 
 License
 MIT License
