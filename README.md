@@ -21,7 +21,15 @@ Once you are on the site, you can visit each section by clicking and navigating 
 
 GIF of deployed site usage:
 
+Checkout the site with the links below!
+https://adhillon0817.github.io/MeMyself-I/
 
+
+Screenshots:
+C:\Users\avlee\Avleen\MeMyself-I\Assets\images\Portfolio 1.png
+C:\Users\avlee\Avleen\MeMyself-I\Assets\images\Portfolio 2.png
+C:\Users\avlee\Avleen\MeMyself-I\Assets\images\Portfolio 3.png
+C:\Users\avlee\Avleen\MeMyself-I\Assets\images\Portfolio 4.png
 
 
 License
