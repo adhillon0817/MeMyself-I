@@ -19,8 +19,10 @@ In order to get access to this app, you must pull down a clone of this repositor
 Usage
 Once you are on the site, you can visit each section by clicking and navigating through the navigation bar. You may select on any of the following, "About Me", "Work", "Contact Me", or "Resume" and you will be take right to the section. This is where you will be able to get more information about me. 
 
-GIF of deployed site usage
+GIF of deployed site usage:
 
+
+https://adhillon0817.github.io/MeMyself-I/
 
 License
 MIT License
